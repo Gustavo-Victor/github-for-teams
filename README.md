@@ -1,3 +1,3 @@
 # GitHub for teams
 
-It's a repository for didactic purposes
+This is a repository for didactic purposes
